@@ -39,10 +39,10 @@
 + `git clone`：在本地环境下创建一个远程仓库的拷贝
   + 远程仓库默认`origin`
 + `git fetch`：提交/更新本地仓库
-+ `git pull`：从远程仓库提交到本地（上传）
++ `git pull`：从远程仓库提交到本地（下载）
   + `git fetch, git merge o/main`
   + `git pull --rebase`
-+ `git push`：从本地上传更新到远程（下载）
++ `git push`：从本地上传更新到远程（上传）
 
 ---
 
