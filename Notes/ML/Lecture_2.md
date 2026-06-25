@@ -1,8 +1,14 @@
+---
+tags:
+  - 机器学习
+  - 笔记
+---
 ## 2-1 模型描述
 $m$：训练集样本数
 $x$：输入
 $y$：输出
 $h_\theta(x) = \theta_0 + \theta_1 x$：Hypothesis
+
 ## 2-2 代价函数
 > The cost function
 
@@ -18,6 +24,7 @@ $$
 $$
 \underset{\theta_0,\theta_1}{\text{min}} \ \underbrace{J(\theta_0,\theta_1)}_{cost \ function}
 $$
+
 ## 2-3 梯度下降
 > Gradient descent algorithm
 
