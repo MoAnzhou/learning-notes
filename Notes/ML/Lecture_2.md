@@ -16,6 +16,7 @@ $h_\theta(x) = \theta_0 + \theta_1 x$：Hypothesis
 + 关于 $\theta_0、\theta_1$ 对函数 $J(\theta_0,\theta_1)$ 求最小值
 
 **平方误差函数**：解决<u>回归问题</u>最常用手段
+如果直接把误差相加会正负相互抵消，所以需要把误差平方
 + Cost function
 $$
 J(\theta_0,\theta_1) = \frac{1}{2m} \sum_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})^2
