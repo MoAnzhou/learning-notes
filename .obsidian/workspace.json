@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/ML/Lecture_5.md",
+                "file": "Notes/ML/Lecture_6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture_5"
+              "title": "Lecture_6"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/ML/Lecture_5.md",
+                "file": "Notes/ML/Lecture_6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lecture_5 的反向链接列表"
+              "title": "Lecture_6 的反向链接列表"
             }
           },
           {
@@ -115,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/ML/Lecture_5.md",
+                "file": "Notes/ML/Lecture_6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Lecture_5 的出链列表"
+              "title": "Lecture_6 的出链列表"
             }
           },
           {
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/ML/Lecture_5.md",
+                "file": "Notes/ML/Lecture_6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Lecture_5 的大纲"
+              "title": "Lecture_6 的大纲"
             }
           }
         ]
@@ -223,11 +223,11 @@
   },
   "active": "03a23ce50ef5d73e",
   "lastOpenFiles": [
-    "Notes/ML/Lecture_2.md",
-    "Notes/ML/Lecture_5.md",
-    "Notes/ML/Lecture_4.md",
-    "Notes/最小二乘法.md",
     "Tools/Latex常用.md",
+    "Notes/ML/Lecture_6.md",
+    "Notes/ML/Lecture_4.md",
+    "Notes/ML/Lecture_2.md",
+    "Notes/最小二乘法.md",
     "Tools/Git基础操作.md",
     "Unarchived/未命名.md",
     "Zotero",
