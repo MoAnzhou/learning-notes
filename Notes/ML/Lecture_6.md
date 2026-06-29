@@ -55,10 +55,14 @@ J(\theta) &= \frac{1}{m} \sum_{i=1}^{m} Cost(h_\theta(x^{(i)}),y^{(i)})\\
 &=-\frac{1}{m} \sum_{i=1}^{m} [ y^{(i)} \log(h_\theta(x^{(i)})) + (1 - y^{(i)}) \log(1 - h_\theta(x^{(i)})) ]
 \end{align}
 $$
-> 极大似然函数
+> Todo：极大似然函数
 
-
-
+[[Sigmoid函数的梯度下降|梯度下降]]：
+$$
+\theta_j := \theta_j - \frac{\alpha}{m} \sum_{i = 1}^{m} [h_\theta(x^{(i)}) - y^{(i)}] x_j^{(i)}
+$$
 
 ## 6-6 高级优化
 
+
+## 6-7 多元分类：一对多
